@@ -12,6 +12,6 @@ action "Create New Pull Request" {
     PULL_REQUEST_BRANCH = "master"
     PULL_REQUEST_DRAFT = "true"
     PULL_REQUEST_TITLE = "This is the title of the PR"
-    PULL_REQUEST_BODY = "This is the body"
+    PULL_REQUEST_BODY = "This is the body of the PR"
   }
 }
