@@ -11,7 +11,7 @@ action "Create New Pull Request" {
   env = {
     PULL_REQUEST_BRANCH = "master"
     PULL_REQUEST_DRAFT = "true"
-    PULL_REQUEST_TITLE = "This is the title"
+    PULL_REQUEST_TITLE = "This is the title of the PR"
     PULL_REQUEST_BODY = "This is the body"
   }
 }
